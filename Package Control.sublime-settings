@@ -1,0 +1,23 @@
+{
+    "auto_upgrade_last_run": null,
+    "installed_packages":
+    [
+        "Color Highlighter",
+        "DocBlockr",
+        "Emmet",
+        "Gist",
+        "Git",
+        "JsFormat",
+        "LESS",
+        "Markdown Preview",
+        "Package Control",
+        "Predawn",
+        "Pretty JSON",
+        "SCSS",
+        "SideBarEnhancements",
+        "SideBarGit",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "Tag"
+    ]
+}
